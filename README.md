@@ -22,7 +22,7 @@ pod "JYMemoryWatch"
 
 ## Author
 
-ioszhb, zhangboniuxuemei@163.com
+ioszhb,zhb_mymail@163.com,developzhb@163.com
 
 ## License
 
