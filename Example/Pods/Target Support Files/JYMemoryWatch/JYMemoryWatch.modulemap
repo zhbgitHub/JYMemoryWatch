@@ -1,0 +1,6 @@
+framework module JYMemoryWatch {
+  umbrella header "JYMemoryWatch-umbrella.h"
+
+  export *
+  module * { export * }
+}

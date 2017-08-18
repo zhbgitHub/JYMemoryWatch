@@ -1,0 +1,16 @@
+PODS:
+  - JYMemoryWatch (0.1.0)
+
+DEPENDENCIES:
+  - JYMemoryWatch (from `../`)
+
+EXTERNAL SOURCES:
+  JYMemoryWatch:
+    :path: ../
+
+SPEC CHECKSUMS:
+  JYMemoryWatch: 172d29ea4051e73fbd61c671dbd2e9febde83b31
+
+PODFILE CHECKSUM: 65533d5bda47c68b0cb044bca5f022f5629ae108
+
+COCOAPODS: 1.3.1

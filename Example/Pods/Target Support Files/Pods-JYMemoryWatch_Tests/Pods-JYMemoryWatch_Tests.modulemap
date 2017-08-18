@@ -1,0 +1,6 @@
+framework module Pods_JYMemoryWatch_Tests {
+  umbrella header "Pods-JYMemoryWatch_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
