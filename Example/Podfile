@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'JYMemoryWatch_Example' do
+  pod 'JYMemoryWatch', :path => '../'
+
+  target 'JYMemoryWatch_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
